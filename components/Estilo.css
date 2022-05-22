@@ -1,0 +1,45 @@
+.conteudo {
+  flex: 1;
+  justify-content: 'center';
+  background: 'darkblue';
+  padding-left: 14
+}
+
+.logo {
+  color: 'white';
+  text-align: 'center'
+}
+
+.titulo {
+  fontSize: 30;
+  font-weight: 'bold';
+  color: 'white';
+  text-align: 'center'
+}
+
+.rotulo { 
+  color: 'lightgray'; 
+  padding-top: 14 
+}
+
+.input {
+  padding: 8;
+  border-bottom: 1px;
+  border-color: 'lightgray'
+}
+
+.senha {
+  padding-top: 15;
+  paddingBottom: 15;
+  fontSize: 12;
+  color: 'white';
+  textAlign: 'right'
+}
+
+.espacamento {
+  padding-top: 15;
+  padding-bottom: 15
+}
+
+
+
